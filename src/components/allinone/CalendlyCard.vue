@@ -3,7 +3,7 @@
     <div class="absolute inset-px rounded-lg bg-surface-900" />
     <div class="relative text-center flex h-full flex-col overflow-hidden rounded-[calc(var(--radius-lg)+1px)]">
       <div class="px-8 pt-4 sm:px-10 sm:pt-6">
-        <p class="mt-2 text-lg md:text-2xl font-medium tracking-tight text-surface-200 max-lg:text-center">Planifie un moment sur Calendly</p>
+        <p class="mt-2 text-lg md:text-2xl font-medium tracking-tight text-surface-200 max-lg:text-center">Planifie un moment</p>
         <p class="mt-2 max-w-lg text-sm sm:text-base lg:text-lg text-surface-100 max-lg:text-center">Entre musique, rencontres et événements uniques.</p>
       </div>
       <div class="flex flex-1 items-center justify-center max-lg:py-6 lg:pb-2">

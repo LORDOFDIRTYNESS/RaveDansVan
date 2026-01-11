@@ -53,12 +53,12 @@ const handleSubmit = async (event) => {
     <div class="container mx-auto py-6 text-center">
             <button
         type="button"
-        class="mb-4 text-xl font-semibold text-primary-400 hover:text-primary-300"
+        class="mb-4 text-2xl font-semibold text-primary-400 hover:text-primary-300"
         @click="openContact"
       >
         Contactez-nous
       </button>
-      <p class="text-sm">&copy; {{ currentYear }} Rave Dans Van. Tous droits rAcservAcs.</p>
+      <p class="text-sm">&copy; {{ currentYear }} Rave Dans Van. Tous droits réservés.</p>
       <div class="flex justify-center space-x-4 mt-3">
         <a href="https://www.instagram.com/rave_dans_van/#" target="_blank" class="hover:text-primary-600">
           <font-awesome-icon :icon="['fab', 'instagram']" />
