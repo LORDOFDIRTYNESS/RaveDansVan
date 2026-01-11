@@ -34,7 +34,7 @@ import ScrollToTop from "./components/sub/ScrollToTop.vue";
 <style>
 @font-face {
   font-family: saira;
-  src: url('@/assets/fonts/SairaStencilOne-Regular.ttf');
+  src: url('./assets/fonts/SairaStencilOne-Regular.ttf');
 }
 
 #rdv{
@@ -67,4 +67,5 @@ import ScrollToTop from "./components/sub/ScrollToTop.vue";
   z-index: 1;
 }
 </style>
+
 
