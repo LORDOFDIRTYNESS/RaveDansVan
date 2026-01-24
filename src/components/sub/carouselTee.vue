@@ -12,7 +12,7 @@
         <div class="dark:border-surface-700 rounded mt-4">
           <div class="mb-4">
             <div class="relative mx-auto">
-              <img :src="slotProps.data.url" class="w-1/2 h-1/2 md:w-full md:h-full rounded" :alt="slotProps.data.alt" />
+              <img :src="slotProps.data.url" class="w-full h-full md:w-full md:h-full rounded" :alt="slotProps.data.alt" />
             </div>
           </div>
         </div>
