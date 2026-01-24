@@ -1,6 +1,6 @@
 <template>
   <div class="my-8 z-10">
-    <h2 class="text-2xl font-semibold text-center mb-4 pb-4">Suis le Son</h2>
+    <h2 class="text-2xl font-semibold text-center mb-4 pb-4">SUIS LE SON</h2>
     <hr class="mx-auto w-1/2 border-1 border-primary-600"/>
     <div class="flex flex-wrap justify-center gap-4 pt-4">
       <div class="rounded-lg p-3 text-center transition-transform transform hover:-translate-y-1" v-for="link in links" :key="link.name">

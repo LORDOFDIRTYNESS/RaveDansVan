@@ -26,7 +26,7 @@ import { onMounted, onUnmounted, ref } from "vue";
 const social = [
   {name: 'Instagram', href: 'https://www.instagram.com/rave_dans_van/#', icon: "fa-brands fa-instagram"},
   {name: 'Shopify', href: 'https://www.youtube.com/@RaveDansVan', icon: "fa-brands fa-youtube"},
-  {name: 'Calendly', href: 'https://www.calendly.com', icon: "fa fa-calendar-days"},
+  {name: 'Calendly', href: 'https://calendly.com/ravedansvan-info/30min', icon: "fa fa-calendar-days"},
 ]
 
 const isScrolled = ref(false)
