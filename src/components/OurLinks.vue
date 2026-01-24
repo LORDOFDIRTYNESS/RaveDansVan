@@ -22,7 +22,7 @@ import { faCalendarAlt } from '@fortawesome/free-solid-svg-icons';
 const links = ref([
   { name: 'Instagram', href: 'https://www.instagram.com/rave_dans_van/#', icon: faInstagram },
   { name: 'Youtube', href: 'https://www.youtube.com/@RaveDansVan', icon: faYoutube },
-  { name: 'Calendly', href: 'https://www.calendly.com', icon: faCalendarAlt },
+  { name: 'Calendly', href: 'https://calendly.com/ravedansvan-info/30min', icon: faCalendarAlt },
 ]);
 </script>
 

@@ -66,7 +66,7 @@ const handleSubmit = async (event) => {
         <a href="https://www.youtube.com/@RaveDansVan" target="_blank" class="hover:text-primary-600">
           <font-awesome-icon :icon="['fab', 'youtube']" />
         </a>
-        <a href="https://www.calendly.com" target="_blank" class="hover:text-primary-600">
+        <a href="https://calendly.com/ravedansvan-info/30min" target="_blank" class="hover:text-primary-600">
           <font-awesome-icon :icon="['fas', 'calendar']" />
         </a>
       </div>

@@ -7,7 +7,7 @@
         <p class="mt-2 max-w-lg text-sm sm:text-base lg:text-lg text-surface-100 max-lg:text-center">Entre musique, rencontres et événements uniques.</p>
       </div>
       <div class="flex flex-1 items-center justify-center max-lg:py-6 lg:pb-2">
-        <a href="https://calendly.com/" target="_blank" aria-label="Calendly">
+        <a href="https://calendly.com/ravedansvan-info/30min" target="_blank" aria-label="Calendly">
           <font-awesome-icon :icon="['fas', 'calendar-days']" class="text-7xl text-primary-600 hover:text-surface-200" />
         </a>
       </div>
