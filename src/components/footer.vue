@@ -86,7 +86,7 @@ const handleSubmit = async (event) => {
         </button>
         <h3 class="text-sm font-semibold uppercase tracking-wide text-surface-300">Contact</h3>
         <form
-          action="https://formspree.io/f/meeejrrr"
+          action="https://formspree.io/f/meearkqk"
           method="POST"
           @submit.prevent="handleSubmit"
           class="mt-3 flex w-full flex-col gap-3"
