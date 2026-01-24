@@ -1,8 +1,8 @@
 <template>
-  <div class="py-12 z-10">
-    <div class="mx-auto max-w-2xl px-6 lg:max-w-7xl lg:px-8">
+  <div class="py-10 sm:py-12 z-10">
+    <div class="mx-auto w-full max-w-2xl px-4 sm:px-6 lg:max-w-7xl lg:px-8">
       <AllInOneHeader />
-      <div class="mt-10 grid gap-4 sm:mt-16 lg:grid-cols-3 lg:grid-rows-2">
+      <div class="mt-8 grid gap-3 sm:mt-10 sm:gap-4 lg:grid-cols-3 lg:grid-rows-2">
         <AgendaPanel />
         <YoutubeCard />
         <CalendlyCard />

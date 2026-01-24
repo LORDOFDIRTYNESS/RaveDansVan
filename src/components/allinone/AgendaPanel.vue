@@ -2,7 +2,7 @@
   <div class="relative max-lg:order-1 lg:row-span-2 lg:order-1">
     <div class="absolute inset-px rounded-lg bg-surface-900 lg:rounded-l-[2rem]" />
     <div class="relative flex h-full flex-col overflow-hidden rounded-[calc(var(--radius-lg)+1px)] lg:rounded-l-[calc(2rem+1px)]">
-      <div class="px-8 pt-4 pb-3 sm:px-10 sm:pt-6 sm:pb-4 text-center flex flex-col h-full">
+      <div class="px-6 pt-4 pb-3 sm:px-10 sm:pt-6 sm:pb-4 text-center flex flex-col h-full">
         <p class="mt-2 text-lg md:text-2xl font-medium tracking-tight text-surface-200">Sur votre agenda</p>
         <div class="mt-4 space-y-4 flex-1 flex flex-col">
           <p v-if="error" class="text-sm text-red-300">{{ error }}</p>

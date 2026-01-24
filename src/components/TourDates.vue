@@ -112,7 +112,7 @@ const formatDate = (dateString) => {
 .date-info .month,
 .date-info .year {
   font-size: 20px;
-  color: #1f2937;
+  color: #9ca3af;
 }
 
 .venue {
@@ -120,11 +120,11 @@ const formatDate = (dateString) => {
   left: 50%;
   transform: translateX(-50%);
   text-align: center;
-  color: #6b7280;
+  color: #9ca3af;
 }
 
 .location {
   margin-left: auto;
-  color: #6b7280;
+  color: #9ca3af;
 }
 </style>
