@@ -13,8 +13,8 @@ import ScrollToTop from "./components/sub/ScrollToTop.vue";
 
 <template>
   <Banner/>
-  <video autoplay muted loop id="background-video">
-    <source src="/public/rdvspace.mp4" type="video/mp4">
+  <video autoplay muted loop playsinline webkit-playsinline disablePictureInPicture id="background-video">
+    <source src="/rdvspace.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
   <div id="video-overlay"></div>

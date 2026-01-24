@@ -59,7 +59,7 @@ const handleSubmit = async (event) => {
         Contactez-nous
       </button>
       <p class="text-sm">&copy; {{ currentYear }} Rave Dans Van. Tous droits réservés.</p>
-      <div class="flex justify-center space-x-4 mt-3">
+      <div class="flex justify-center space-x-4 mt-3 text-xl sm:text-2xl">
         <a href="https://www.instagram.com/rave_dans_van/#" target="_blank" class="hover:text-primary-600">
           <font-awesome-icon :icon="['fab', 'instagram']" />
         </a>

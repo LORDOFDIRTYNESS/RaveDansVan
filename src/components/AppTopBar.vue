@@ -3,7 +3,7 @@
   { 'py-4': !isScrolled, 'py-1' : isScrolled }]">
     <div class="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
       <div class="relative flex items-center justify-between">
-        <div class="flex flex-1 items-center justify-center sm:justify-start">
+        <div class="flex flex-1 items-center justify-start">
           <div class="flex shrink-0 items-center">
             <span class="text-2xl sm:text-4xl text-primary-600 ml-2" id="rdv">RaveDansVan</span>
           </div>

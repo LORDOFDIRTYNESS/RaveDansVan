@@ -3,10 +3,10 @@
     <h2 class="text-2xl font-semibold text-center mb-4 pb-4">Suis le Son</h2>
     <hr class="mx-auto w-1/2 border-1 border-primary-600"/>
     <div class="flex flex-wrap justify-center gap-4 pt-4">
-      <div class="rounded-lg p-4 text-center transition-transform transform hover:-translate-y-1" v-for="link in links" :key="link.name">
+      <div class="rounded-lg p-3 text-center transition-transform transform hover:-translate-y-1" v-for="link in links" :key="link.name">
         <a :href="link.href" target="_blank" class="no-underline text-surface-200 hover:text-primary-600">
-          <font-awesome-icon :icon="link.icon" class="text-4xl mb-2" />
-          <span class="block text-lg font-semibold">{{ link.name }}</span>
+          <font-awesome-icon :icon="link.icon" class="text-3xl sm:text-4xl mb-2" />
+          <span class="block text-base sm:text-lg font-semibold">{{ link.name }}</span>
         </a>
       </div>
     </div>

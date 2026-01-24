@@ -6,7 +6,7 @@
         <p class="mt-2 text-lg md:text-2xl font-medium tracking-tight text-surface-200 max-lg:text-center">Réserve un rave</p>
         <p class="mt-2 max-w-lg text-sm sm:text-base lg:text-lg text-surface-100 max-lg:text-center">Réserve ta place sur Calendly.</p>
       </div>
-      <div class="flex flex-1 items-center justify-center py-8 sm:py-10 lg:pt-6 lg:pb-2">
+      <div class="flex flex-1 items-center justify-center px-6 py-8 sm:px-10 sm:py-10 lg:pt-6 lg:pb-2">
         <a href="https://calendly.com/ravedansvan-info/30min" target="_blank" aria-label="Calendly">
           <font-awesome-icon :icon="['fas', 'calendar-days']" class="text-7xl text-primary-600 hover:text-surface-200" />
         </a>
